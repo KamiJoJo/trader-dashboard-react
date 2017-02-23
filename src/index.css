@@ -1,0 +1,18 @@
+.block {
+  background-color: #fff;
+  border-color: #ddd;
+  border-width: 1px;
+  border-radius: 4px 4px 0 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  padding: 0 15px 15px;
+  border-style: solid;
+}
+
+.block h2 {
+  font-size: 12px;
+  font-weight: 700;
+  color: #959595 ;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
